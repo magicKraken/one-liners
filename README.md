@@ -12,7 +12,7 @@ The User connects a Wallet to pay the necessary fee to store the Account on the 
 
 ### Clone repo
 ```
-git clone https://github.com/jferrer/one-liners
+git clone https://github.com/magicKraken/one-liners
 ```
 
 ### Build
